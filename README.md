@@ -1,5 +1,7 @@
 # Genetic Polymorphism and Impulse-Aggressive Personality Traits Analysis
 
+![poster](https://github.com/filipponardi17/Unsupervised-Analysis-on-Genetic-Polymorphisms-and-Impulse-Aggressive-Traits/blob/main/Final_project.jpg)
+
 ## Overview
 
 This project, conducted by Jorge Parreño Hernández, Filippo Nardi, and Riccardo Conforto Galli from the Data Science department at Universidad Carlos III de Madrid, focuses on the unsupervised analysis of the relationship between various genetic polymorphisms and impulse-aggressive personality traits. The study employs a comprehensive approach, encompassing preprocessing, feature selection, dimensionality reduction, clustering, survival analysis, and genomic phenotyping using advanced machine learning techniques.
