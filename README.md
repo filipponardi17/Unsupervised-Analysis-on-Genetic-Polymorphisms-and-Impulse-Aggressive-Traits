@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project, conducted by Jorge Parreño Hernández, Filippo Nardi, and Riccardo Conforto Galli from the Data Science department at Universidad Carlos III de Madrid, focuses on the unsupervised analysis of the relationship between various genetic polymorphisms and impulse-aggressive personality traits. The study employs a comprehensive approach, encompassing preprocessing, feature selection, dimensionality reduction, clustering, survival analysis, and genomic phenotyping using advanced machine learning techniques.
+This project, conducted by Filippo Nardi, Jorge Parreño Hernández and Riccardo Conforto Galli from the Data Science department at Universidad Carlos III de Madrid, focuses on the unsupervised analysis of the relationship between various genetic polymorphisms and impulse-aggressive personality traits. The study employs a comprehensive approach, encompassing preprocessing, feature selection, dimensionality reduction, clustering, survival analysis, and genomic phenotyping using advanced machine learning techniques.
 
 ## Preprocessing
 
@@ -39,3 +39,7 @@ The fp-tree algorithm was employed to identify support for different sets of 2 a
 3. **Feature Importance Analysis**: Random Forest analysis identifies the most crucial features for determining personality types, improving model interpretability.
   
 4. **Survival Analysis Insights**: Through survival analysis, the project enhances understanding and prediction of suicidal attempts based solely on genetic polymorphisms for different patient profiles.
+
+## Co-author
+Riccardo Conforto Galli
+Jorge Parreño Hernández
