@@ -1,0 +1,4 @@
+,support,itemsets
+0,0.31313131313131315,"frozenset({'5', 'TPH1_Intron4: TC'})"
+1,0.20202020202020202,"frozenset({'TPH1_Intron4: CC', '5', 'TPH1_intron1b: AA'})"
+2,0.3181818181818182,"frozenset({'TPH1_Intron4: CC', '5', 'TPH1_intron1b: AT'})"

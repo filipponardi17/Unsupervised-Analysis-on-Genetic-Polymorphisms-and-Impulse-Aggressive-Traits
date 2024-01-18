@@ -1,0 +1,5 @@
+,support,itemsets
+0,0.23318385650224216,"frozenset({'13', 'VHT2A_1438: GG'})"
+1,0.2556053811659193,"frozenset({'@_httpb_promoteur: SS', '13'})"
+2,0.29596412556053814,"frozenset({'13', '@_httpb_promoteur: LL'})"
+3,0.24663677130044842,"frozenset({'VHT2A_1438: AG', '@_httpb_promoteur: SL', '13'})"

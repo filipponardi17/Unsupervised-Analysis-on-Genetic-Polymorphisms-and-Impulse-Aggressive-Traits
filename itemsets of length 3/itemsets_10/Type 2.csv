@@ -1,0 +1,6 @@
+,support,itemsets
+0,0.3203125,"frozenset({'HT1B_861: CG', '7'})"
+1,0.359375,"frozenset({'7', 'TPH2_9000_Eco72_1: TA'})"
+2,0.203125,"frozenset({'7', 'HT1B_861: GG', 'TPH2_9000_Eco72_1: AA', 'TPH1_intron1b: AA'})"
+3,0.25,"frozenset({'7', 'HT1B_861: GG', 'TPH1_intron1b: AT'})"
+4,0.296875,"frozenset({'7', 'TPH1_intron1b: AT', 'TPH2_9000_Eco72_1: AA'})"

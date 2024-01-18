@@ -1,0 +1,5 @@
+,support,itemsets
+0,0.26666666666666666,"frozenset({'12', 'TPH2_9000_Eco72_1: TA'})"
+1,0.28,"frozenset({'12', 'TPH1_T8687: FS'})"
+2,0.2,"frozenset({'12', 'TPH2_9000_Eco72_1: AA', 'TPH1_T8687: FF'})"
+3,0.26,"frozenset({'TPH1_T8687: SS', '12', 'TPH2_9000_Eco72_1: AA'})"

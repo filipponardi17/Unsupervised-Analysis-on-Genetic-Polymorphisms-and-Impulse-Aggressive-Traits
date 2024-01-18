@@ -1,0 +1,3 @@
+TPH1_intron1b
+TPH1_Intron9
+VHT2A_C102T

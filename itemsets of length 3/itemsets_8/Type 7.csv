@@ -1,0 +1,7 @@
+,support,itemsets
+0,0.21649484536082475,"frozenset({'TPH1_Intron7: AA', '6'})"
+1,0.26804123711340205,"frozenset({'MAOA_promo_activite: H H', '6'})"
+2,0.27835051546391754,"frozenset({'MAOA_promo_activite: B H', '6'})"
+3,0.20618556701030927,"frozenset({'HT1B_861: GG', 'TPH1_Intron7: CC', '6'})"
+4,0.3711340206185567,"frozenset({'HT1B_861: CG', '6'})"
+5,0.2268041237113402,"frozenset({'TPH1_Intron7: AC', 'HT1B_861: GG', '6'})"

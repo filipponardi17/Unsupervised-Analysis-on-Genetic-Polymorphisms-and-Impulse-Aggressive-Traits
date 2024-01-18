@@ -1,0 +1,5 @@
+,support,itemsets
+0,0.2469879518072289,"frozenset({'MAOA_promo_activite: B H', '12', 'TPH2_9000_Aci_I: GG'})"
+1,0.25301204819277107,"frozenset({'12', 'TPH2_9000_Aci_I: GG', 'MAOA_promo_activite: H H'})"
+2,0.2710843373493976,"frozenset({'12', 'TPH2_9000_Aci_I: GG', 'TPH1_Intron3: 216 216'})"
+3,0.40963855421686746,"frozenset({'TPH1_Intron3: 216 217', '12', 'TPH2_9000_Aci_I: GG'})"

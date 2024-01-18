@@ -1,0 +1,6 @@
+,support,itemsets
+0,0.2066420664206642,"frozenset({'VHTTP_LPR: SpSp', 'VHTTP_snippassocie: 14a 14a', '8'})"
+1,0.24723247232472326,"frozenset({'VHTTP_LPR: LpLp', 'VHTTP_snippassocie: 16a 16a', '8'})"
+2,0.39114391143911437,"frozenset({'VHTTP_snippassocie: 14a 16a', 'VHTTP_LPR: SpLp', '8'})"
+3,0.3985239852398524,"frozenset({'TPH1_Intron7: CC', '8'})"
+4,0.21033210332103322,"frozenset({'VHTTP_LPR: SpLp', 'TPH1_Intron7: AC', '8'})"

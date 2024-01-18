@@ -1,0 +1,8 @@
+,support,itemsets
+0,0.24647887323943662,"frozenset({'12', 'TPH2_9000_Eco72_1: TA'})"
+1,0.28169014084507044,"frozenset({'12', 'TPH1_T8687: FS'})"
+2,0.20422535211267606,"frozenset({'12', 'TPH2_9000_Eco72_1: AA', 'TPH1_T8687: FF'})"
+3,0.21830985915492956,"frozenset({'12', 'TPH2_Intron5: TC', 'TPH2_9000_Eco72_1: AA'})"
+4,0.2535211267605634,"frozenset({'12', 'TPH2_Intron5: TT', 'TPH1_T8687: SS'})"
+5,0.2676056338028169,"frozenset({'12', 'TPH2_9000_Eco72_1: AA', 'TPH1_T8687: SS'})"
+6,0.4507042253521127,"frozenset({'12', 'TPH2_Intron5: TT', 'TPH2_9000_Eco72_1: AA'})"

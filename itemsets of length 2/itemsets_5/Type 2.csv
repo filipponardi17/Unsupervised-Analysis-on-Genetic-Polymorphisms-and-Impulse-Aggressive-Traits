@@ -1,0 +1,4 @@
+,support,itemsets
+0,0.2541899441340782,"frozenset({'VHTTP_LPR: SpSp', '7'})"
+1,0.26536312849162014,"frozenset({'VHTTP_mutation_seule: AA', '7', 'VHTTP_LPR: LpLp'})"
+2,0.39385474860335196,"frozenset({'VHTTP_mutation_seule: AA', '7', 'VHTTP_LPR: SpLp'})"

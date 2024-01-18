@@ -1,0 +1,5 @@
+,support,itemsets
+0,0.21739130434782608,"frozenset({'17', 'VHT2A_1438: AA'})"
+1,0.2608695652173913,"frozenset({'VHT2A_1438: GG', '17'})"
+2,0.2608695652173913,"frozenset({'VHTTP_snippassocie: 16a 16g', '17'})"
+3,0.34782608695652173,"frozenset({'VHT2A_1438: AG', 'VHTTP_snippassocie: 16a 16a', '17'})"

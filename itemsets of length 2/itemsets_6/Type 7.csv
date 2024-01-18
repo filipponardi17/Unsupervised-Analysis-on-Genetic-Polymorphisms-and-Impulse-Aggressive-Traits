@@ -1,0 +1,5 @@
+,support,itemsets
+0,0.26,"frozenset({'MAOA_Promo: 1 2', '6'})"
+1,0.26,"frozenset({'MAOA_Promo: 2 2', '6'})"
+2,0.37,"frozenset({'6', 'HT1B_861: CG'})"
+3,0.53,"frozenset({'HT1B_861: GG', '6'})"

@@ -1,0 +1,5 @@
+,support,itemsets
+0,0.2375,"frozenset({'MAOA_promo_activite: H H', '6'})"
+1,0.2875,"frozenset({'MAOA_promo_activite: B H', 'TPH2_9000_Aci_I: GG', '6'})"
+2,0.2875,"frozenset({'TPH1_Intron3: 216 216', 'TPH2_9000_Aci_I: GG', '6'})"
+3,0.325,"frozenset({'TPH1_Intron3: 216 217', 'TPH2_9000_Aci_I: GG', '6'})"

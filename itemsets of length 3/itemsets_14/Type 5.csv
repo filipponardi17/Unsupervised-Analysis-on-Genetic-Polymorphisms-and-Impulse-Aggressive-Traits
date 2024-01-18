@@ -1,0 +1,5 @@
+,support,itemsets
+0,0.2,"frozenset({'MAOA_promo_activite: B H', '5'})"
+1,0.2571428571428571,"frozenset({'TPH2_9000_Aci_I: GG', 'VHTTP_snippassocie: 16a 16a', '5'})"
+2,0.30158730158730157,"frozenset({'TPH2_9000_Aci_I: GG', 'MAOA_promo_activite: H', '5'})"
+3,0.3746031746031746,"frozenset({'VHTTP_snippassocie: 14a 16a', 'TPH2_9000_Aci_I: GG', '5'})"

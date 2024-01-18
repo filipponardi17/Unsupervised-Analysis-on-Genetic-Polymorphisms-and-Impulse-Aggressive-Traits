@@ -1,0 +1,7 @@
+,support,itemsets
+0,0.2222222222222222,"frozenset({'TPH1_intron1b: TT', '6'})"
+1,0.3162393162393162,"frozenset({'TPH1_Intron3: 216 216', '6'})"
+2,0.3504273504273504,"frozenset({'TPH1_intron1b: AA', '6'})"
+3,0.2222222222222222,"frozenset({'TPH1_Intron3: 216 217', '@_httpb_promoteur: SL', '6'})"
+4,0.41025641025641024,"frozenset({'@_httpb_promoteur: LL', '6'})"
+5,0.21367521367521367,"frozenset({'TPH1_intron1b: AT', 'TPH1_Intron3: 216 217', '6'})"

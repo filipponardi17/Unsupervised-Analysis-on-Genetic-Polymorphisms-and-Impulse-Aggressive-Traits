@@ -1,0 +1,4 @@
+,support,itemsets
+0,0.2781065088757396,"frozenset({'7', 'TPH2_Intron5: TC'})"
+1,0.2781065088757396,"frozenset({'7', 'TPH2_Intron5: TT', 'HT1B_861: CG'})"
+2,0.40236686390532544,"frozenset({'7', 'HT1B_861: GG', 'TPH2_Intron5: TT'})"

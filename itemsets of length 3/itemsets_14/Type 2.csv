@@ -1,0 +1,6 @@
+,support,itemsets
+0,0.2006172839506173,"frozenset({'7', 'TPH2_9000_Aci_I: GG', 'MAOA_promo_activite: H'})"
+1,0.2191358024691358,"frozenset({'7', 'TPH2_9000_Aci_I: GG', 'VHTTP_snippassocie: 16a 16a'})"
+2,0.24382716049382716,"frozenset({'7', 'TPH2_9000_Aci_I: GG', 'MAOA_promo_activite: H H'})"
+3,0.24382716049382716,"frozenset({'7', 'MAOA_promo_activite: B H', 'TPH2_9000_Aci_I: GG'})"
+4,0.36419753086419754,"frozenset({'VHTTP_snippassocie: 14a 16a', '7', 'TPH2_9000_Aci_I: GG'})"

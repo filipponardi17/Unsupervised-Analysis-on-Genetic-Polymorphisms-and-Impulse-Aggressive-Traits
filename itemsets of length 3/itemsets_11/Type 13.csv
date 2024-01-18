@@ -1,0 +1,9 @@
+,support,itemsets
+0,0.2066420664206642,"frozenset({'MAOA_Promo: 1', '8'})"
+1,0.21033210332103322,"frozenset({'TPH1_promo: 22', '8'})"
+2,0.23247232472324722,"frozenset({'TPH1_promo: 11', 'TPH1_Intron4: CC', '8'})"
+3,0.2029520295202952,"frozenset({'TPH1_Intron4: TC', 'MAOA_Promo: 2', '8'})"
+4,0.30996309963099633,"frozenset({'TPH1_Intron4: TC', 'TPH1_promo: 12', '8'})"
+5,0.23985239852398524,"frozenset({'TPH1_Intron4: CC', 'MAOA_Promo: 2', '8'})"
+6,0.25830258302583026,"frozenset({'TPH1_promo: 12', 'MAOA_Promo: 2', '8'})"
+7,0.2177121771217712,"frozenset({'TPH1_promo: 12', 'TPH1_Intron4: CC', '8'})"

@@ -1,0 +1,5 @@
+,support,itemsets
+0,0.2711864406779661,"frozenset({'7', 'VHT2A_C102T: TT'})"
+1,0.22033898305084745,"frozenset({'7', 'VHT2A_C102T: CC', 'TPH2_Intron5: TT'})"
+2,0.3728813559322034,"frozenset({'7', 'TPH2_Intron5: TC'})"
+3,0.2542372881355932,"frozenset({'7', 'TPH2_Intron5: TT', 'VHT2A_C102T: CT'})"

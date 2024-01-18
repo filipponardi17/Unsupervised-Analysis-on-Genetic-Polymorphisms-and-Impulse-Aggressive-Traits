@@ -1,0 +1,7 @@
+,support,itemsets
+0,0.2777777777777778,"frozenset({'12', 'TPH1_Intron7: CC'})"
+1,0.2111111111111111,"frozenset({'TPH1_T8687: FS', '12', 'TPH1_Intron7: AC'})"
+2,0.3055555555555556,"frozenset({'12', 'TPH1_T8687: FF'})"
+3,0.36666666666666664,"frozenset({'12', 'TPH1_T8687: SS'})"
+4,0.2111111111111111,"frozenset({'12', 'TPH2_Intron9: AT', 'TPH1_Intron7: AC'})"
+5,0.25,"frozenset({'12', 'TPH2_Intron9: AA', 'TPH1_Intron7: AC'})"

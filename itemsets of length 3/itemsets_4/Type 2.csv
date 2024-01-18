@@ -1,0 +1,7 @@
+,support,itemsets
+0,0.2786885245901639,"frozenset({'7', 'TPH1_Intron3: 216 216'})"
+1,0.3114754098360656,"frozenset({'7', '@_httpb_promoteur: LL'})"
+2,0.2459016393442623,"frozenset({'7', 'TPH1_Intron3: 216 217', 'TPH1_intron1b: AA'})"
+3,0.23770491803278687,"frozenset({'7', 'TPH1_Intron3: 216 217', 'TPH1_intron1b: AT'})"
+4,0.2459016393442623,"frozenset({'7', 'TPH1_intron1b: AT', '@_httpb_promoteur: SL'})"
+5,0.28688524590163933,"frozenset({'7', 'TPH1_Intron3: 216 217', '@_httpb_promoteur: SL'})"

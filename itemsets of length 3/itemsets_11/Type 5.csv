@@ -1,0 +1,5 @@
+,support,itemsets
+0,0.2127659574468085,"frozenset({'TPH1_Intron4: CC', '5', 'MAOA_Promo: 2'})"
+1,0.21010638297872342,"frozenset({'TPH1_promo: 12', '5', 'TPH1_Intron4: TC'})"
+2,0.3377659574468085,"frozenset({'TPH1_promo: 11', 'TPH1_Intron4: CC', '5'})"
+3,0.24202127659574468,"frozenset({'TPH1_promo: 12', 'TPH1_Intron4: CC', '5'})"

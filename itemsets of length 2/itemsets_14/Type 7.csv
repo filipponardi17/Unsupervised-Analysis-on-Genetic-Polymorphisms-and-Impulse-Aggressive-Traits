@@ -1,0 +1,4 @@
+,support,itemsets
+0,0.2857142857142857,"frozenset({'VHTTP_mutation_seule: AA', 'TPH1_T8687: FF', '6'})"
+1,0.2857142857142857,"frozenset({'TPH1_T8687: SS', 'VHTTP_mutation_seule: AA', '6'})"
+2,0.35714285714285715,"frozenset({'VHTTP_mutation_seule: AA', 'TPH1_T8687: FS', '6'})"

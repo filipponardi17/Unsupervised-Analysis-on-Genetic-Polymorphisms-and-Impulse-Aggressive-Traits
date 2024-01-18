@@ -1,0 +1,6 @@
+,support,itemsets
+0,0.23323615160349853,"frozenset({'MAOA_Promo: 2', '7'})"
+1,0.26239067055393583,"frozenset({'MAOA_Promo: 2 2', '7'})"
+2,0.27696793002915454,"frozenset({'MAOA_Promo: 1 2', '7'})"
+3,0.3935860058309038,"frozenset({'7', 'HT1B_861: CG'})"
+4,0.5481049562682215,"frozenset({'7', 'HT1B_861: GG'})"

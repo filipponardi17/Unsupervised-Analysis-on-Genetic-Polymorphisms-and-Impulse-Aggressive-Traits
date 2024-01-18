@@ -1,0 +1,8 @@
+
+	DOCUMENT TO KEEP TRACK OF DIFFERENT DATASET VERSIONS
+
+	+ Eureca2.0: contains important feature information such as type, suicide, suicidal_ideation, filtered out BIS and BDHIs plust added last 26 columns which contain polymorphisms.
+	+ Eureca2.0_embed.csv: contains contextual embeddings of all variables read as objects by pandas, needed for umap to work, critical for polymorphisms which are original strings specifying nucleotides, also imputed.
+	+ Eureca2.0_umapGMM.csv: contains data on 2d umap components as well as labels found through GMM clustering minimizing BIC
+	+ Eureca2.0_umapGMM3d.csv: contains data on 3d umap components as well as labels found through GMM clustering minimizing BIC.
+	

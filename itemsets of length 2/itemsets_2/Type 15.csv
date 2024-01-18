@@ -1,0 +1,4 @@
+,support,itemsets
+0,0.22790697674418606,"frozenset({'3', 'MAOA_Promo: 1'})"
+1,0.27674418604651163,"frozenset({'3', 'TPH1_Intron3: 216 216'})"
+2,0.2372093023255814,"frozenset({'TPH1_Intron3: 216 217', '3', 'MAOA_Promo: 2'})"

@@ -1,0 +1,8 @@
+,support,itemsets
+0,0.21951219512195122,"frozenset({'VHT2A_C102T: TT', '5'})"
+1,0.3170731707317073,"frozenset({'VHT2A_C102T: CC', '5'})"
+2,0.3780487804878049,"frozenset({'TPH1_Intron9: tt', '5'})"
+3,0.2073170731707317,"frozenset({'TPH1_intron1b: AT', 'VHT2A_C102T: CT', '5'})"
+4,0.2804878048780488,"frozenset({'TPH1_intron1b: AT', 'TPH1_Intron9: ct', '5'})"
+5,0.43902439024390244,"frozenset({'TPH1_intron1b: AA', '5'})"
+6,0.21951219512195122,"frozenset({'TPH1_Intron9: ct', 'VHT2A_C102T: CT', '5'})"
